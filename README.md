@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Patel</h1>
 <h3 align="center">A current Senior at the University of South Florida majoring in Cybersecurity</h3>
 
-- 🔭 I’m currently working on **SSH Honeypot**
+- 🔭 I’m currently working on **A Credit Card Fraud Detection Project using ML**
 
 - 👯 I’m looking to collaborate on **Any Cybersecurity related projects**
 
